@@ -1,4 +1,4 @@
-```markdown
+
 # 💰 GFC Financial Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
@@ -198,5 +198,3 @@ Proyek ini dibuat untuk keperluan penyelesaian tugas Virtual Internship Job simu
 
 ## 👨‍💻 Author
 **Burhanudin Badiuzaman** - Data Analyst
-
-```
