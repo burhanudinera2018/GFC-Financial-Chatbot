@@ -1,0 +1,11 @@
+# Core dependencies
+streamlit==1.28.1
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.15.0
+
+# For Ollama integration
+requests==2.31.0
+
+# For data visualization in chat
+matplotlib==3.7.2
